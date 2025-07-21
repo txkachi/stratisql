@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/stratisql.svg)](https://www.npmjs.com/package/stratisql)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node.js CI](https://github.com/txkachi/stratisql/actions/workflows/node.js.yml/badge.svg)](https://github.com/txkachi/stratisql/actions)
+[![Node.js CI](https://github.com/txkachi/stratisql/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/txkachi/stratisql/actions)
 [![npm downloads](https://img.shields.io/npm/dm/stratisql.svg)](https://www.npmjs.com/package/stratisql)
 [![license](https://img.shields.io/npm/l/stratisql.svg)](./LICENSE)
 [![types](https://img.shields.io/npm/types/stratisql.svg)](https://www.npmjs.com/package/stratisql)
